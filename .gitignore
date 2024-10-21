@@ -4,3 +4,4 @@
 *.doc*
 *.class
 _old/
+exams/*/*.java
